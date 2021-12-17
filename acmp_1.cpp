@@ -1,4 +1,4 @@
-﻿using namespace std;
+using namespace std;
 #include <iostream>
 #include <stdio.h>
 #include <stdlib.h> 
