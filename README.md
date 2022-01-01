@@ -1,2 +1,2 @@
 # ACMP
-Files is just headers(.h) for main function on console app
+Most files is just headers(.h) for main function on console app
